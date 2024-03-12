@@ -1,3 +1,4 @@
+## Skills learnt in this project :
 - We will build a complete real world application use case by developing the all the API’s using FAST API python framework, along the way we will learn the details of Fast API framework and also compare it with other API development Frameworks.
 
 - We will learn to handle errors and exceptions and how to perform validation.
